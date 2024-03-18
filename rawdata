@@ -17,7 +17,7 @@
       "actor_id":"0x18",
       "fname_id":"0x38",
       "dormant":"0x100",
-      "player_state":"0x3f8",
+      "player_state":"0x3F0",
       "current_mesh":"0x438",
       "inventory":"0x9a8",
       "outline_component":"0x11D0",
